@@ -11,5 +11,5 @@ abcdefg
 abcdefg
 abcdefg
 abcdefg
-abcdefg
+abcdefg hot-fix-text
 hello git
