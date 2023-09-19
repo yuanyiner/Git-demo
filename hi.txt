@@ -11,5 +11,6 @@ abcdefg
 abcdefg
 abcdefg
 abcdefg
-abcdefg
 hello git master test
+abcdefg hot-fix-text
+
